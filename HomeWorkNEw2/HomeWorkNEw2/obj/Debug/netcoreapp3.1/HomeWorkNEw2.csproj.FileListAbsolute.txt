@@ -1,0 +1,14 @@
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\bin\Debug\netcoreapp3.1\HomeWorkNEw2.exe
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\bin\Debug\netcoreapp3.1\HomeWorkNEw2.deps.json
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\bin\Debug\netcoreapp3.1\HomeWorkNEw2.runtimeconfig.json
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\bin\Debug\netcoreapp3.1\HomeWorkNEw2.runtimeconfig.dev.json
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\bin\Debug\netcoreapp3.1\HomeWorkNEw2.dll
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\bin\Debug\netcoreapp3.1\HomeWorkNEw2.pdb
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\obj\Debug\netcoreapp3.1\HomeWorkNEw2.csproj.AssemblyReference.cache
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\obj\Debug\netcoreapp3.1\HomeWorkNEw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\obj\Debug\netcoreapp3.1\HomeWorkNEw2.AssemblyInfoInputs.cache
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\obj\Debug\netcoreapp3.1\HomeWorkNEw2.AssemblyInfo.cs
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\obj\Debug\netcoreapp3.1\HomeWorkNEw2.csproj.CoreCompileInputs.cache
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\obj\Debug\netcoreapp3.1\HomeWorkNEw2.dll
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\obj\Debug\netcoreapp3.1\HomeWorkNEw2.pdb
+C:\Users\vusal\source\repos\HomeWorkNEw2\HomeWorkNEw2\obj\Debug\netcoreapp3.1\HomeWorkNEw2.genruntimeconfig.cache
